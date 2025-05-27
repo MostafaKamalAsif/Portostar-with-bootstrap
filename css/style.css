@@ -1,0 +1,173 @@
+/* All Common CSS Start  */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+img{
+    vertical-align: middle;
+}
+a,a:hover{
+    text-decoration: none;
+    display: inline-block;
+}
+h1,h2.h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+    line-height: 0.8;
+}
+ul,ol{
+    list-style-type: none;
+}
+/* All Common CSS End */
+
+/* Header Part Start  */
+.nav-link {
+font-size: 14px;
+font-weight: 400;
+color: #000;
+margin: 0 10px;
+
+}
+.mCB{
+    padding: 15px 20px;
+    background: #5E3BEE;
+    border-radius: 50px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+}
+.mCB i {
+    padding-left: 5px;
+}
+/* Header Part End */
+
+/* BannerPart Start  */
+#bannerPart{
+    padding: 15px 0 65px 0;
+    background: #F9F9FC;
+}
+.bannertext{
+    padding: 120px 0 145px 0;
+}
+.bannertext h4{
+    font-size: 16px;
+    font-weight: 500;
+    color: #5E3BEE;
+}
+.bannertext h1{
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 78px;
+    color: #333;
+    width: 479px;
+    padding: 45px 0;
+}
+.bbc i {
+ padding-right: 5px;
+}
+.bbc{
+    transition: .4s;
+}
+.bbc:hover{
+    background: transparent;
+    color: #333;
+}
+/* Banner Part End */
+
+/* EXPERIENCE Part Start  */
+#experiencePart{
+    padding: 95px 0;
+}
+.experiencetext h3{
+    font-size: 48px;
+    font-weight: 600;
+    color: #000;
+}
+.experiencetext p{
+    font-size: 16px;
+    font-weight: 500;
+    color: #121212;
+    opacity: .7;
+}
+/* EXPERIENCE Part End */
+
+/* SERVICES Part Start  */
+.servicetext h4{
+    font-size: 16px;
+    font-weight: 500;
+    color: #5E3BEE;
+}
+.servicetext h3{
+    font-size: 44px;
+    font-weight: 600;
+    color: #000000;
+    padding: 30px 0 25px 0;
+}
+.servicetext p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #121212;
+    opacity: .7;
+    width: 600px;
+    margin: 0 auto;
+    padding-bottom: 65px;
+}
+.serviceiteam{
+    padding: 50px 70px;
+    border-radius: 20px;
+    box-shadow: 25px 37px 80px 0px rgba(0, 0, 0, 0.1); 
+    transition: .4s;
+}
+.serviceiteam:hover{
+    background: #F9F9FC;
+}
+.serviceiteam h3{
+     font-size: 20px;
+    font-weight: 500;
+    color: #000000;
+    padding: 45px 0 20px 0;
+}
+.serviceiteam p{
+      font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #121212;
+    opacity: .7;
+}
+
+/* SERVICES Part End */
+
+/* about Part Start  */
+#aboutPart{
+    background: url(../Images/SECTION\ ABOUT.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 100px 0;
+}
+.bannertext p{
+      font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #121212;
+    opacity: .7;
+    padding-bottom: 45px;
+}
+/* about Part End */
+
+/* Client Part Start  */
+#clientPart{
+    padding: 20px 0 120px 0;
+}
+/* Client Part End */
+
+/* Header Part Start  */
+/* Header Part End */
+
+/* Header Part Start  */
+/* Header Part End */
+
