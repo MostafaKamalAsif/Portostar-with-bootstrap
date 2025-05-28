@@ -24,6 +24,9 @@ ul,ol{
 /* All Common CSS End */
 
 /* Header Part Start  */
+.navbar{
+    padding: 40px 0;
+}
 .nav-link {
 font-size: 14px;
 font-weight: 400;
