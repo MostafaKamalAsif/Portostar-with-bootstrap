@@ -65,7 +65,7 @@ margin: 0 10px;
     font-weight: 700;
     line-height: 78px;
     color: #333;
-    width: 479px;
+
     padding: 45px 0;
 }
 .bbc i {
@@ -115,9 +115,8 @@ margin: 0 10px;
     line-height: 32px;
     color: #121212;
     opacity: .7;
-    width: 600px;
-    margin: 0 auto;
-    padding-bottom: 65px;
+   padding: 0 170px;
+  margin-bottom: 65px;
 }
 .serviceiteam{
     padding: 50px 70px;
@@ -168,8 +167,60 @@ margin: 0 10px;
 }
 /* Client Part End */
 
-/* Header Part Start  */
-/* Header Part End */
+/* portfolio Part Start  */
+#portfolioPart{
+    padding-bottom: 100px;
+}
+.portfolioLP h4{
+    color: #5E3BEE;
+    font-size: 16px;
+    font-weight: 500;
+}
+.portfolioLP h3{
+    color: #000000;
+    font-size: 44px;
+    font-weight: 600;
+    padding-top: 5px;
+
+}
+.portfolioRP p{
+   font-size: 16px;
+    font-weight: 500;
+    line-height: 32px;
+    color: #121212;
+    opacity: .7;
+    padding: 0 52px;
+
+}
+
+.card-body h5{
+     font-size: 20px;
+    font-weight: 500;
+    color: #000000;
+    padding-top: 35px;
+}
+.card-body p{
+     font-size: 16px;
+    font-weight: 500;
+    color: #000000;
+    opacity: .5;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.card{
+    border-radius: 25px;
+    box-shadow: 37px 37px 80px 0px rgba(0, 0, 0, 0.1); 
+    
+}
+.card img{
+    border-radius: 25px;
+    border-end-start-radius: 0px;
+    border-end-end-radius: 0px;
+}
+.cardBorder{
+    padding: 20px;
+}
+/* portfolio Part End */
 
 /* Header Part Start  */
 /* Header Part End */

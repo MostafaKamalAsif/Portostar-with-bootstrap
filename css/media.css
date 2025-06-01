@@ -1,0 +1,113 @@
+
+ /* Extra large devices (large desktops) */
+ 
+@media (min-width: 1200px) 
+{}
+
+/*  Large devices (desktops) */
+
+ @media (min-width: 992px) and (max-width: 1199.98px)
+ {}
+
+ /* Medium devices (tablets) */
+
+@media (min-width: 768px) and (max-width: 991.98px) 
+{}
+
+ /* Small devices (landscape phones) */
+@media (min-width: 576px) and (max-width: 767.98px) 
+{}
+
+ /* Extra small devices (portrait phones) */
+@media (min-width: 320px) and (max-width: 575.98px) 
+{
+ /* Header part Start  */
+ .navbar-toggler i{
+    color: #5E3BEE;
+ }
+ .navbar-nav {
+    background: #5E3BEE;
+    text-align: center;
+    
+    border-radius: 25px;
+ }
+ .nav-link{
+color: #fff;
+ }
+
+ /* Header Part End  */
+
+ /* Banner part start  */
+
+ .bannertext {
+    padding-top: 0px;
+    text-align: center;
+
+ }
+.bannertext h1 {
+	font-size: 35px;
+	font-weight: 700;
+	line-height: 58px;
+	color: #333;
+	padding: 26px 0;
+}
+.bbc{
+   margin-top: 15px;
+}
+.cImg  img{
+	text-align: center;
+	width: 85%;
+    margin-top: -115px;
+    padding: 0 ;
+	
+}
+  /* Banner part start  */
+
+  /* EXPERIENCE part start  */
+  #experiencePart {
+	padding: 40px 0;
+}
+  .experience-col{
+    width: 50%;
+  }
+  .experiencetext{
+    padding-bottom: 30px;
+  }
+  /* EXPERIENCE part start  */
+
+  /* SERVICES part start  */
+  .servicetext h3 {
+	font-size: 35px;
+	padding: 16px 0 25px 0;
+}
+.servicetext p{
+    padding: 0;
+}
+.serviceiteam{
+    margin-bottom: 15px;
+}
+  /*SERVICES part start  */
+#aboutPart {
+	margin: 27px 0;
+}
+.abouttext h4{
+padding-top: 30px;
+}
+/* Client Part Start */
+  .clientiteam img{
+ width: 100%;
+ padding-top: 30px;
+  }
+  /* Client Part End */
+}
+
+
+
+
+
+
+
+
+
+
+
