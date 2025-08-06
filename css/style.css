@@ -226,7 +226,7 @@ margin: 0 10px;
 /* Testimony Part Start  */
 #testimonyPart{
  
-    position: relative;
+     background: #F9F9FC;
     
 }
 .testimonytext p{
@@ -282,7 +282,7 @@ display: flex;
 }
 
 .mCard{
-   background: #F9F9FC;
+  
    position: relative;
    padding: 147px 0 157px 0;
 }
@@ -320,7 +320,7 @@ display: flex;
 
 /* Footer Part Start  */
 #Footerpart{
-    background: #404040;
+    background: #333333;
     border-start-start-radius: 24px;
     border-start-end-radius: 24px;
 }
@@ -334,6 +334,37 @@ display: flex;
  font-size: 16px;
  padding: 23px 0 72px 0;
 }
-
+.footerright a{
+  color: #FFFFFF;
+  display: block;
+  padding-bottom: 22px;
+}
+.footerright a i{
+    padding-right: 15px;
+}
+.footerright ul{
+    display: flex;
+    gap: 0 26px;
+    padding-top: 5px;
+}
+.Footer hr{
+   color: #FFFFFF;
+  opacity: .1;
+    
+}
+.footermenu ul{
+   display: flex;
+   gap: 0 50px;
+   padding-top: 50px;
+}
+.footermenu ul li a{
+  color: #FFFFFF;
+}
+.footerbottom{
+  color: #FFFFFF;
+  opacity: .6; 
+  padding-top: 50px;
+  font-size: 16px; 
+}
 /* Footer Part End */
 
